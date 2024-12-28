@@ -3,8 +3,6 @@
 Find publicly available data for key factors that influence US home prices nationally. Then, build a data science model that explains how these factors impacted home prices over the last 20 years.Use the S&P Case-Schiller Home Price Index as a proxy for home prices: fred.stlouisfed.org/series/CSUSHPISA
 
 This repository contains Jupyter Notebooks designed for cleaning, exploring, and analyzing data, as well as training machine learning models. The workflow is split into three main stages, each represented by a dedicated notebook.
-Find publicly available data for key factors that influence US home prices nationally. Then, build a data science model that explains how these factors impacted home prices over the last 20 years.
-Use the S&P Case-Schiller Home Price Index as a proxy for home prices: fred.stlouisfed.org/series/CSUSHPISA
 
 ## Notebooks
 
